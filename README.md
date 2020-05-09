@@ -1,1 +1,0 @@
-# FolkClassification-GrainSizeParameters
