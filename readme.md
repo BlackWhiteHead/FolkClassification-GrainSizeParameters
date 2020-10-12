@@ -26,7 +26,7 @@ The data is an example for the prediction and visual evaluation.
 This file contains names of each class and their corresponding numbers.
 - xgb_2.model  
 Pre-trained model to predict whether a sample contains gravel. 
-- xgb_cls.model
+- xgb_cls.model  
 Pre-trained model to predict the Folk's classes of samples without gravel fraction.
 - xgb_2.raw  
 Text file of the xgb_2.model
