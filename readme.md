@@ -29,9 +29,9 @@ Pre-trained model to predict whether a sample contains gravel.
 - xgb_cls.model  
 Pre-trained model to predict the Folk's classes of samples without gravel fraction.
 - xgb_2.raw  
-Text file of the xgb_2.model
+Text file of the xgb_2.model.
 - xgb_cls.raw  
-Text file of the xgb_cls.model
+Text file of the xgb_cls.model.
 
 ## Dependencies
 The code has been tested using packages of:  
